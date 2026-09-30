@@ -1,0 +1,15 @@
+# Obsidian (por si acaso)
+.obsidian/
+.trash/
+
+# Linux / KDE
+.directory
+*~
+
+# Otros sistemas
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+CLAUDE.md
