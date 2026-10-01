@@ -643,4 +643,4 @@ public class GeneradorEmail {
 
 ---
 
-**Navegación:** Anterior: [Unidad 2. Variables, tipos de datos y memoria](02-variables-tipos-de-datos-y-memoria.md) · [Índice](00-indice.md) · Siguiente: [Unidad 4. Operadores](04-operadores.md)
+**Navegación:** Anterior: [Unidad 2. Variables, tipos de datos y memoria](02-variables-tipos-de-datos-y-memoria.md) · [Índice](../../../README.md) · Siguiente: [Unidad 4. Operadores](04-operadores.md)

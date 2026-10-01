@@ -695,4 +695,4 @@ Mejor media: Marta
 
 ---
 
-**Navegación:** Anterior: [Unidad 7. Bucles](07-bucles.md) · [Índice](00-indice.md) · Siguiente: [Unidad 9. Métodos](09-metodos.md)
+**Navegación:** Anterior: [Unidad 7. Bucles](07-bucles.md) · [Índice](../../../README.md) · Siguiente: [Unidad 9. Métodos](09-metodos.md)

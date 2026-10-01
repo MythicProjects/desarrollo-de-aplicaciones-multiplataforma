@@ -762,4 +762,4 @@ Envío de avisos:
 
 ---
 
-**Navegación:** Anterior: [Unidad 12. Herencia y polimorfismo](12-herencia-y-polimorfismo.md) · [Índice](00-indice.md) · Siguiente: [Unidad 14. Diagramas UML y su paso a Java](14-diagramas-uml-y-su-paso-a-java.md)
+**Navegación:** Anterior: [Unidad 12. Herencia y polimorfismo](12-herencia-y-polimorfismo.md) · [Índice](../../../README.md) · Siguiente: [Unidad 14. Diagramas UML y su paso a Java](14-diagramas-uml-y-su-paso-a-java.md)

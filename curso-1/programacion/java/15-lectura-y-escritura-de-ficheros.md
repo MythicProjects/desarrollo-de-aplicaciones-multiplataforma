@@ -974,4 +974,4 @@ Contenido de `datos/proceso.log` tras la ejecución:
 
 ---
 
-**Navegación:** Anterior: [Unidad 14. Diagramas UML y su paso a Java](14-diagramas-uml-y-su-paso-a-java.md) · [Índice](00-indice.md) · Siguiente: [Unidad 16. Bases de datos con JDBC](16-bases-de-datos-con-jdbc.md)
+**Navegación:** Anterior: [Unidad 14. Diagramas UML y su paso a Java](14-diagramas-uml-y-su-paso-a-java.md) · [Índice](../../../README.md) · Siguiente: [Unidad 16. Bases de datos con JDBC](16-bases-de-datos-con-jdbc.md)

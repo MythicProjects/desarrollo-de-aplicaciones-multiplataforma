@@ -556,4 +556,4 @@ Cuota:      12,50€
 
 ---
 
-**Navegación:** Anterior: [Unidad 4. Operadores](04-operadores.md) · [Índice](00-indice.md) · Siguiente: [Unidad 6. Estructuras condicionales](06-estructuras-condicionales.md)
+**Navegación:** Anterior: [Unidad 4. Operadores](04-operadores.md) · [Índice](../../../README.md) · Siguiente: [Unidad 6. Estructuras condicionales](06-estructuras-condicionales.md)

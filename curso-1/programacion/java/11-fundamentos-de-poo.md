@@ -805,4 +805,4 @@ Valor total del inventario: 1328,43€
 
 ---
 
-**Navegación:** Anterior: [Unidad 10. Errores y excepciones](10-errores-y-excepciones.md) · [Índice](00-indice.md) · Siguiente: [Unidad 12. Herencia y polimorfismo](12-herencia-y-polimorfismo.md)
+**Navegación:** Anterior: [Unidad 10. Errores y excepciones](10-errores-y-excepciones.md) · [Índice](../../../README.md) · Siguiente: [Unidad 12. Herencia y polimorfismo](12-herencia-y-polimorfismo.md)

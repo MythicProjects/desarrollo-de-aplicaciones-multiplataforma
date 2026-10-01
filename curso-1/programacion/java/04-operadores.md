@@ -551,4 +551,4 @@ public class AccesoAtraccion {
 
 ---
 
-**Navegación:** Anterior: [Unidad 3. Cadenas de texto](03-cadenas-de-texto.md) · [Índice](00-indice.md) · Siguiente: [Unidad 5. Entrada y salida](05-entrada-y-salida.md)
+**Navegación:** Anterior: [Unidad 3. Cadenas de texto](03-cadenas-de-texto.md) · [Índice](../../../README.md) · Siguiente: [Unidad 5. Entrada y salida](05-entrada-y-salida.md)

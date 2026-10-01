@@ -158,7 +158,7 @@ Exception in thread "main" java.lang.ArithmeticException: / by zero
 | `at Division.main(Division.java:3)` | Método que llamó al anterior: `main`, línea 3. |
 
 > [!tip] Cómo leer una traza de la pila
-> La traza refleja la **pila de llamadas** (véase la [[09 - Métodos|Unidad 9]]) en el momento del error: la **primera línea `at`** indica dónde se produjo, y las siguientes, la cadena de llamadas que condujo hasta allí. En el IDE, los nombres de archivo y los números de línea son **enlaces** que llevan directamente al código.
+> La traza refleja la **pila de llamadas** (véase la [Unidad 9](09-metodos.md)) en el momento del error: la **primera línea `at`** indica dónde se produjo, y las siguientes, la cadena de llamadas que condujo hasta allí. En el IDE, los nombres de archivo y los números de línea son **enlaces** que llevan directamente al código.
 
 ### 2.3. Excepciones más frecuentes
 
@@ -172,14 +172,14 @@ Exception in thread "main" java.lang.ArithmeticException: / by zero
 | `InputMismatchException` | `Scanner` recibe un dato de tipo distinto al esperado. | `nextInt()` con la entrada `"hola"` |
 | `IllegalArgumentException` | Un método recibe un argumento no válido. | Edad negativa |
 | `IllegalStateException` | Un objeto no está en un estado adecuado para la operación. | Retirar de una cuenta bloqueada |
-| `ClassCastException` | Conversión de un objeto a un tipo incompatible. | Véase la [[12 - Herencia y polimorfismo|Unidad 12]] |
-| `StackOverflowError` | Recursión infinita, sin caso base. | Véase la [[09 - Métodos|Unidad 9]] |
+| `ClassCastException` | Conversión de un objeto a un tipo incompatible. | Véase la [Unidad 12](12-herencia-y-polimorfismo.md) |
+| `StackOverflowError` | Recursión infinita, sin caso base. | Véase la [Unidad 9](09-metodos.md) |
 
 ---
 
 ## 3. Jerarquía de excepciones
 
-En Java, las excepciones son **objetos** de clases organizadas en una **jerarquía de herencia** (véase la [[12 - Herencia y polimorfismo|Unidad 12]]). Todas descienden de la clase **`Throwable`**:
+En Java, las excepciones son **objetos** de clases organizadas en una **jerarquía de herencia** (véase la [Unidad 12](12-herencia-y-polimorfismo.md)). Todas descienden de la clase **`Throwable`**:
 
 ```mermaid
 flowchart TB
@@ -307,7 +307,7 @@ try {
 
 ### 4.5. Ámbito de las variables en `try`
 
-Las variables declaradas dentro del bloque `try` **solo existen en él** (véase la [[09 - Métodos|Unidad 9]]). Si se necesitan después, deben declararse **antes** del `try`:
+Las variables declaradas dentro del bloque `try` **solo existen en él** (véase la [Unidad 9](09-metodos.md)). Si se necesitan después, deben declararse **antes** del `try`:
 
 ```java
 int numero = 0; // declarada fuera para usarla después del try
@@ -386,7 +386,7 @@ Además de capturar excepciones, es posible **lanzarlas manualmente** mediante l
 throw new TipoExcepcion("Mensaje descriptivo");
 ```
 
-- La palabra reservada `new` crea el objeto excepción (véase la [[11 - Fundamentos de POO|Unidad 11]]).
+- La palabra reservada `new` crea el objeto excepción (véase la [Unidad 11](11-fundamentos-de-poo.md)).
 - El **mensaje** se pasa como argumento y será el que devuelva `getMessage()`.
 - `throw` **finaliza inmediatamente** el método, igual que `return`.
 
@@ -527,7 +527,7 @@ public class TryWithResources {
 ```
 
 > [!note] Alcance
-> Esta estructura es la forma recomendada de trabajar con ficheros y bases de datos, y se utiliza de forma sistemática en la [[15 - Lectura y escritura de ficheros|Unidad 15]] y la [[16 - Bases de datos con JDBC|Unidad 16]]. Solo admite objetos que implementan la interfaz `AutoCloseable` (véase la [[12 - Herencia y polimorfismo|Unidad 12]]).
+> Esta estructura es la forma recomendada de trabajar con ficheros y bases de datos, y se utiliza de forma sistemática en la [Unidad 15](15-lectura-y-escritura-de-ficheros.md) y la [Unidad 16](16-bases-de-datos-con-jdbc.md). Solo admite objetos que implementan la interfaz `AutoCloseable` (véase la [Unidad 12](12-herencia-y-polimorfismo.md)).
 
 ---
 
@@ -555,7 +555,7 @@ public static double retirar(double saldo, double importe) {
 ```
 
 > [!info] Convención de nombres
-> Por convención, el nombre de las clases de excepción termina en **`Exception`**. Los conceptos de `extends`, constructor y `super` se estudian en las [[11 - Fundamentos de POO|Unidades 11]] y [[12 - Herencia y polimorfismo|12]].
+> Por convención, el nombre de las clases de excepción termina en **`Exception`**. Los conceptos de `extends`, constructor y `super` se estudian en las [Unidades 11](11-fundamentos-de-poo.md) y [12](12-herencia-y-polimorfismo.md).
 
 ---
 
@@ -732,4 +732,4 @@ Operación rechazada: el importe debe ser positivo.
 
 ---
 
-**Navegación:** Anterior: [[09 - Métodos|Unidad 9. Métodos]] · [[00 - Índice|Índice]] · Siguiente: [[11 - Fundamentos de POO|Unidad 11. Fundamentos de POO]]
+**Navegación:** Anterior: [Unidad 9. Métodos](09-metodos.md) · [Índice](../../../README.md) · Siguiente: [Unidad 11. Fundamentos de POO](11-fundamentos-de-poo.md)

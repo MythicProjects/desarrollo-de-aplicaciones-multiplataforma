@@ -2047,4 +2047,4 @@ git diff --stat 0f58a18 v1.0
 
 ---
 
-**Navegación:** Anterior: [Unidad 2. Entornos de desarrollo integrados](02-entornos-de-desarrollo-integrados.md) · [Índice](00-indice.md) · Siguiente: [Unidad 4. Depuración y análisis de código](04-depuracion-y-analisis-de-codigo.md)
+**Navegación:** Anterior: [Unidad 2. Entornos de desarrollo integrados](02-entornos-de-desarrollo-integrados.md) · [Índice](../../README.md) · Siguiente: Unidad 4. Depuración y análisis de código

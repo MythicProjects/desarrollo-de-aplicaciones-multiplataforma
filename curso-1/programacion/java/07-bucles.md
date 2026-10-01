@@ -638,4 +638,4 @@ public class AdivinarNumero {
 
 ---
 
-**Navegación:** Anterior: [Unidad 6. Estructuras condicionales](06-estructuras-condicionales.md) · [Índice](00-indice.md) · Siguiente: [Unidad 8. Arrays](08-arrays.md)
+**Navegación:** Anterior: [Unidad 6. Estructuras condicionales](06-estructuras-condicionales.md) · [Índice](../../../README.md) · Siguiente: [Unidad 8. Arrays](08-arrays.md)

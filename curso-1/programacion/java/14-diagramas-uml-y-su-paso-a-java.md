@@ -941,4 +941,4 @@ Actividades de FitCentre:
 
 ---
 
-**Navegación:** Anterior: [Unidad 13. Relaciones entre clases](13-relaciones-entre-clases.md) · [Índice](00-indice.md) · Siguiente: [Unidad 15. Lectura y escritura de ficheros](15-lectura-y-escritura-de-ficheros.md)
+**Navegación:** Anterior: [Unidad 13. Relaciones entre clases](13-relaciones-entre-clases.md) · [Índice](../../../README.md) · Siguiente: [Unidad 15. Lectura y escritura de ficheros](15-lectura-y-escritura-de-ficheros.md)

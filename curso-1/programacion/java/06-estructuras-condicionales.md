@@ -675,4 +675,4 @@ public class TarifaAparcamiento {
 
 ---
 
-**Navegación:** Anterior: [Unidad 5. Entrada y salida](05-entrada-y-salida.md) · [Índice](00-indice.md) · Siguiente: [Unidad 7. Bucles](07-bucles.md)
+**Navegación:** Anterior: [Unidad 5. Entrada y salida](05-entrada-y-salida.md) · [Índice](../../../README.md) · Siguiente: [Unidad 7. Bucles](07-bucles.md)

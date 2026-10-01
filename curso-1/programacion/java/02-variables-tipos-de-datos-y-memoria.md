@@ -608,4 +608,4 @@ public class ReservaHotel {
 
 ---
 
-**Navegación:** Anterior: [Unidad 1. Introducción a Java](01-introduccion-a-java-y-entorno-de-desarrollo.md) · [Índice](00-indice.md) · Siguiente: [Unidad 3. Cadenas de texto](03-cadenas-de-texto.md)
+**Navegación:** Anterior: [Unidad 1. Introducción a Java](01-introduccion-a-java-y-entorno-de-desarrollo.md) · [Índice](../../../README.md) · Siguiente: [Unidad 3. Cadenas de texto](03-cadenas-de-texto.md)

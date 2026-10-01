@@ -931,4 +931,4 @@ Total si se alquila toda la flota: 917,00€
 
 ---
 
-**Navegación:** Anterior: [Unidad 11. Fundamentos de POO](11-fundamentos-de-poo.md) · [Índice](00-indice.md) · Siguiente: [Unidad 13. Relaciones entre clases](13-relaciones-entre-clases.md)
+**Navegación:** Anterior: [Unidad 11. Fundamentos de POO](11-fundamentos-de-poo.md) · [Índice](../../../README.md) · Siguiente: [Unidad 13. Relaciones entre clases](13-relaciones-entre-clases.md)

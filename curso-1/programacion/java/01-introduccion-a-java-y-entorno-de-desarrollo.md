@@ -437,4 +437,4 @@ java HolaMundo          # ejecuta el bytecode en la JVM
 
 ---
 
-**Navegación:** [Índice](00-indice.md) · Siguiente: [Unidad 2. Variables, tipos de datos y memoria](02-variables-tipos-de-datos-y-memoria.md)
+**Navegación:** [Índice](../../../README.md) · Siguiente: [Unidad 2. Variables, tipos de datos y memoria](02-variables-tipos-de-datos-y-memoria.md)

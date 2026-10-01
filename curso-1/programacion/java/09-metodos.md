@@ -791,4 +791,4 @@ public class CalculadoraFactura {
 
 ---
 
-**Navegación:** Anterior: [Unidad 8. Arrays](08-arrays.md) · [Índice](00-indice.md) · Siguiente: [Unidad 10. Errores y excepciones](10-errores-y-excepciones.md)
+**Navegación:** Anterior: [Unidad 8. Arrays](08-arrays.md) · [Índice](../../../README.md) · Siguiente: [Unidad 10. Errores y excepciones](10-errores-y-excepciones.md)

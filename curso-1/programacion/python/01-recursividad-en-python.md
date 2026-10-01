@@ -158,7 +158,7 @@ La recursión múltiple crece rápidamente. Para evaluar el coste, se identifica
 |3 llamadas por nivel|O(3ⁿ)|Sierpiński|
 |4 llamadas por nivel|O(4ⁿ)|Koch, Hilbert|
 
-Python tiene un límite de profundidad de pila (~1000 por defecto). Para problemas profundos con subproblemas repetidos, se aplica [Memoización](memoizacion.md) o se reescribe de forma iterativa.
+Python tiene un límite de profundidad de pila (~1000 por defecto). Para problemas profundos con subproblemas repetidos, se aplica Memoización o se reescribe de forma iterativa.
 
 ---
 
@@ -210,7 +210,7 @@ def mi_funcion(parametro):
 
 # Recursividad — Ejercicios de clase
 
-Estos ejercicios aplican los conceptos de [Recursividad_Teoria](recursividad-teoria.md) usando la librería `turtle` de Python para dibujar fractales. Cada fractal es un ejemplo directo de un tipo o patrón recursivo distinto.
+Estos ejercicios aplican los conceptos de recursividad usando la librería `turtle` de Python para dibujar fractales. Cada fractal es un ejemplo directo de un tipo o patrón recursivo distinto.
 
 La librería `turtle` mueve una "tortuga" por pantalla. Su posición y orientación son **estado global**: si una función la mueve, las llamadas posteriores parten desde donde la dejó. Esto obliga a gestionar el estado con cuidado, igual que en cualquier algoritmo con backtracking.
 
@@ -225,7 +225,7 @@ delay(0)   # sin pausa entre frames
 
 **Concepto aplicado**: recursión múltiple (4 llamadas), caso base = dibujo directo.
 
-La [Curva de Koch](curva-de-koch.md) transforma un segmento recto en una curva fractal. La regla es: divide el segmento en tres partes iguales e inserta un triángulo equilátero en la parte central, eliminando su base.
+La Curva de Koch transforma un segmento recto en una curva fractal. La regla es: divide el segmento en tres partes iguales e inserta un triángulo equilátero en la parte central, eliminando su base.
 
 ```mermaid
 graph LR
@@ -274,7 +274,7 @@ En el ejercicio se dibuja varias capas del copo con tamaños ligeramente distint
 
 **Concepto aplicado**: recursión múltiple con inversión de parámetro (`-angle`), orientación como estado.
 
-La [Curva de Hilbert](curva-de-hilbert.md) es una curva que rellena el espacio de forma continua. Su construcción recursiva gira el subpatrón en cuatro orientaciones distintas. La elegancia del algoritmo está en que la misma función genera las cuatro orientaciones pasando `angle` o `-angle`.
+La Curva de Hilbert es una curva que rellena el espacio de forma continua. Su construcción recursiva gira el subpatrón en cuatro orientaciones distintas. La elegancia del algoritmo está en que la misma función genera las cuatro orientaciones pasando `angle` o `-angle`.
 
 ```python
 def hilbertCurve(level, angle, size):
@@ -320,7 +320,7 @@ def hilbertGeneration(levels, size, colors):
 
 **Concepto aplicado**: recursión múltiple (3 ramas), las acciones de bajada y subida están entrelazadas con los segmentos.
 
-El [Triángulo de Sierpiński](triangulo-de-sierpinski.md) divide un triángulo en tres triángulos más pequeños, eliminando el central, y repite el proceso en cada uno.
+El Triángulo de Sierpiński divide un triángulo en tres triángulos más pequeños, eliminando el central, y repite el proceso en cada uno.
 
 ```python
 def sierpinskiGen(level, step):

@@ -723,7 +723,7 @@ La referencia clásica es el libro *Design Patterns* (1994) de Gamma, Helm, John
 | De comportamiento | Cómo **se comunican** los objetos y se reparten responsabilidades. | Estado, Visitante, Iterador |
 
 > [!info] Alcance
-> Los ejemplos se acompañan de diagramas de clases simplificados. La notación UML se repasa en la [Unidad 8](08-uml-y-diagramas-de-clases.md); aquí basta con saber que cada caja es una clase o interfaz y que las flechas indican relaciones entre ellas.
+> Los ejemplos se acompañan de diagramas de clases simplificados. La notación UML se repasa en la Unidad 8; aquí basta con saber que cada caja es una clase o interfaz y que las flechas indican relaciones entre ellas.
 
 ### 7.2. Patrones creacionales
 
@@ -1155,7 +1155,7 @@ public class Iterador {
 | Antipatrón | Síntoma | Alternativa |
 |---|---|---|
 | Código espagueti | Código sin estructura, lleno de saltos, en el que cualquier cambio rompe otra parte. El nombre procede del dibujo resultante de trazar el flujo del programa. | Dividir en funciones y clases con una responsabilidad clara. |
-| Flujo de lava | Grandes cantidades de código desordenado, añadidos y restos que nadie se atreve a borrar. Suele deberse a una mala gestión del proyecto, no solo a un programador descuidado. | Refactorizar y eliminar el código muerto (véase la [Unidad 6](06-refactorizacion.md)). |
+| Flujo de lava | Grandes cantidades de código desordenado, añadidos y restos que nadie se atreve a borrar. Suele deberse a una mala gestión del proyecto, no solo a un programador descuidado. | Refactorizar y eliminar el código muerto (véase la Unidad 6). |
 | Martillo dorado | Apego injustificado a un lenguaje, paradigma o *framework* para resolver cualquier problema. | Elegir la herramienta según el problema. |
 | Reinventar la rueda | Programar desde cero algo que ya tiene una solución probada. | Utilizar la biblioteca estándar o una biblioteca consolidada. |
 | Reinventar la rueda cuadrada | Reinventar la rueda y hacerlo peor que la solución existente. | Ídem. |
@@ -1597,4 +1597,4 @@ Pendientes: 1
 
 ---
 
-**Navegación:** Anterior: — · [Índice](00-indice.md) · Siguiente: [Unidad 2. Entornos de desarrollo integrados](02-entornos-de-desarrollo-integrados.md)
+**Navegación:** Anterior: — · [Índice](../../README.md) · Siguiente: [Unidad 2. Entornos de desarrollo integrados](02-entornos-de-desarrollo-integrados.md)

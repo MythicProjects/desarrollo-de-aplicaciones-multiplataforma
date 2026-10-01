@@ -963,4 +963,4 @@ flowchart TB
 
 ---
 
-**Navegación:** Anterior: [Unidad 15. Lectura y escritura de ficheros](15-lectura-y-escritura-de-ficheros.md) · [Índice](00-indice.md)
+**Navegación:** Anterior: [Unidad 15. Lectura y escritura de ficheros](15-lectura-y-escritura-de-ficheros.md) · [Índice](../../../README.md)

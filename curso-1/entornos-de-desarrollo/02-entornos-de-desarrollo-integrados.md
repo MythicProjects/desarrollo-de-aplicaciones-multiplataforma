@@ -66,12 +66,12 @@ flowchart TD
 |---|---|---|
 | Editor de código | Escribir el código con resaltado de sintaxis, autocompletado y detección de errores en tiempo real. | Esta unidad |
 | Compilador / intérprete | Traducir o ejecutar el código. Muchos IDE **no lo incluyen**: utilizan el que esté instalado en el sistema (JDK, `gcc`, Python, .NET SDK). | [Unidad 1](01-desarrollo-de-software.md) |
-| Depurador | Ejecutar el programa de forma controlada, paso a paso, inspeccionando variables. | [Unidad 4](04-depuracion-y-analisis-de-codigo.md) |
+| Depurador | Ejecutar el programa de forma controlada, paso a paso, inspeccionando variables. | Unidad 4 |
 | Cliente de control de versiones | Registrar los cambios, compartirlos y recuperar versiones anteriores. | [Unidad 3](03-control-de-versiones-con-git.md) |
 | Gestor de proyectos y construcción | Organizar los ficheros, las dependencias y las opciones de compilación. | Esta unidad |
 | Terminal integrado | Ejecutar órdenes sin salir del entorno. | Esta unidad |
-| Herramientas de pruebas | Ejecutar pruebas unitarias y mostrar sus resultados. | [Unidad 5](05-diseno-y-ejecucion-de-pruebas.md) |
-| Refactorización | Reestructurar el código de forma automática y segura (renombrar, extraer métodos…). | [Unidad 6](06-refactorizacion.md) |
+| Herramientas de pruebas | Ejecutar pruebas unitarias y mostrar sus resultados. | Unidad 5 |
+| Refactorización | Reestructurar el código de forma automática y segura (renombrar, extraer métodos…). | Unidad 6 |
 
 ### 2.3. Asistencia a la codificación
 
@@ -860,7 +860,7 @@ En `out/conversor/` quedan `App.class` y `Conversor.class`.
 }
 ```
 
-Con esta configuración, `F5` inicia el programa con el argumento `25` y el depurador conectado. Su uso (puntos de interrupción, ejecución paso a paso, inspecciones) se desarrolla en la [Unidad 4](04-depuracion-y-analisis-de-codigo.md).
+Con esta configuración, `F5` inicia el programa con el argumento `25` y el depurador conectado. Su uso (puntos de interrupción, ejecución paso a paso, inspecciones) se desarrolla en la Unidad 4.
 
 ### 8.6. Fragmento de código del proyecto
 
@@ -943,4 +943,4 @@ out/
 
 ---
 
-**Navegación:** Anterior: [Unidad 1. Desarrollo de software](01-desarrollo-de-software.md) · [Índice](00-indice.md) · Siguiente: [Unidad 3. Control de versiones con Git](03-control-de-versiones-con-git.md)
+**Navegación:** Anterior: [Unidad 1. Desarrollo de software](01-desarrollo-de-software.md) · [Índice](../../README.md) · Siguiente: [Unidad 3. Control de versiones con Git](03-control-de-versiones-con-git.md)
