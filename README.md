@@ -4,6 +4,14 @@ Apuntes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Mult
 
 ## Curso 1
 
+### Bases de datos
+
+_Sin temas todavía._
+
+### Digitalización aplicada a los sectores productivos
+
+_Sin temas todavía._
+
 ### Entornos de desarrollo
 
 - [Tema 1: Desarrollo de software](curso-1/entornos-de-desarrollo/01-desarrollo-de-software.md)
@@ -11,6 +19,14 @@ Apuntes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Mult
 - [Tema 3: Control de versiones con Git](curso-1/entornos-de-desarrollo/03-control-de-versiones-con-git.md)
 
 ### Lenguajes de marcas
+
+#### JavaScript
+
+_Sin temas todavía._
+
+#### Web frontend
+
+_Sin temas todavía._
 
 #### XML
 
@@ -40,6 +56,14 @@ Apuntes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Mult
 
 - [Tema 1: Recursividad en Python](curso-1/programacion/python/01-recursividad-en-python.md)
 
+#### UML
+
+_Sin temas todavía._
+
+### Sistemas informáticos
+
+_Sin temas todavía._
+
 ## Curso 2
 
 ### Acceso a datos
@@ -49,6 +73,10 @@ Apuntes del ciclo formativo de grado superior en Desarrollo de Aplicaciones Mult
 ### Diseño de interfaces
 
 - [Tema 1: Herramientas](curso-2/diseno-de-interfaces/01-herramientas.md)
+
+### English
+
+_Sin temas todavía._
 
 ### Interactivo
 
