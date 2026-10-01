@@ -13,3 +13,7 @@ Thumbs.db
 # Claude
 .claude/
 CLAUDE.md
+
+# Obsidian (requeridos)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
