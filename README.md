@@ -45,6 +45,7 @@ _Sin temas todavía._
 - [Tema 7: Bucles](curso-1/programacion/java/07-bucles.md)
 - [Tema 8: Arrays](curso-1/programacion/java/08-arrays.md)
 - [Tema 9: Métodos](curso-1/programacion/java/09-metodos.md)
+- [Tema 10: Errores y excepciones](curso-1/programacion/java/10%20-%20Errores%20y%20excepciones.md)
 - [Tema 11: Fundamentos de POO](curso-1/programacion/java/11-fundamentos-de-poo.md)
 - [Tema 12: Herencia y polimorfismo](curso-1/programacion/java/12-herencia-y-polimorfismo.md)
 - [Tema 13: Relaciones entre clases](curso-1/programacion/java/13-relaciones-entre-clases.md)
@@ -107,7 +108,3 @@ _Sin temas todavía._
 ### Sistema de gestión de empresa
 
 - [Tema 1: La gestión empresarial](curso-2/sistema-de-gestion-de-empresa/01-la-gestion-empresarial.md)
-
-## Sin clasificar
-
-- [Dudas y objetivos de DAM-1](sin-clasificar/dam-1-dudas-y-objetivos.md)
