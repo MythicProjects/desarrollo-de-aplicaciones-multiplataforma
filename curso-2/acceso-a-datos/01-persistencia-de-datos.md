@@ -1,12 +1,12 @@
 ---
 tags:
-  - aceso-a-datos
+  - acceso-a-datos
   - DAM2
 unidad: 1
-tema: xxx
+tema: Persistencia de datos
 ---
 # Unidad 1 - 
-![](../assets/acceso-a-datos-01-mapa-persistencia-de-datos.png)
+![](../_assets/acceso-a-datos-01-mapa-persistencia-de-datos.png)
 
 
 > [!info] Rastreadores

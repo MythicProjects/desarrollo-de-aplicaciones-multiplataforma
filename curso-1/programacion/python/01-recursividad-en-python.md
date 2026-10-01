@@ -1,3 +1,10 @@
+---
+tags:
+  - programacion
+  - DAM1
+unidad: 1
+tema: Recursividad
+---
 # Recursividad
 
 La **recursividad** es una técnica de programación en la que una función se llama a sí misma para resolver versiones más pequeñas del mismo problema. El resultado final se construye combinando las soluciones de esas versiones más pequeñas.

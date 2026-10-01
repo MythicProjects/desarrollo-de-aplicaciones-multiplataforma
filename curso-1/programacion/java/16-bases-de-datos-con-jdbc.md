@@ -1,9 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - bases-de-datos
+  - DAM1
 unidad: 16
 tema: Bases de datos relacionales con JDBC y el patrón DAO
 ---

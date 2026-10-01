@@ -1,9 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - poo
+  - DAM1
 unidad: 13
 tema: Relaciones entre clases y colecciones
 ---

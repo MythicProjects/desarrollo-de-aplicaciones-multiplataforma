@@ -2,7 +2,6 @@
 tags:
   - entornos-de-desarrollo
   - DAM1
-  - desarrollo-de-software
 unidad: 1
 tema: Desarrollo de software — lenguajes, obtención del ejecutable, ciclo de vida y arquitectura
 ---

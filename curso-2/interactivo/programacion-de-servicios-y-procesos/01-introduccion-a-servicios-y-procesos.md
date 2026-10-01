@@ -1,3 +1,10 @@
+---
+tags:
+  - programacion-de-servicios-y-procesos
+  - DAM2
+unidad: 1
+tema: Introducción a servicios y procesos
+---
 # Introducción a servicios y procesos
 
 Servicios y procesos

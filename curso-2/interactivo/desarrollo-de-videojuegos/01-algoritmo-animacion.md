@@ -1,3 +1,10 @@
+---
+tags:
+  - desarrollo-de-videojuegos
+  - DAM2
+unidad: 1
+tema: Algoritmo Animación Fuego
+---
 # Algoritmo Animación Fuego
 - Arquitectura MVP
 - Programación de un fuego animación

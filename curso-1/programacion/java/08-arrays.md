@@ -1,8 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
+  - DAM1
 unidad: 8
 tema: Arrays
 ---

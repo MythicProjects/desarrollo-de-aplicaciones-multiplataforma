@@ -1,3 +1,10 @@
+---
+tags:
+  - lenguajes-de-marcas
+  - DAM1
+unidad: 1
+tema: XML — Definición de esquemas y vocabularios
+---
 # XML — Definición de esquemas y vocabularios
 
 ## Qué es XML

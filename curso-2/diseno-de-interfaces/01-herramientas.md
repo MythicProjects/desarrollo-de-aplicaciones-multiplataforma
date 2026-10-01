@@ -1,3 +1,10 @@
+---
+tags:
+  - diseno-de-interfaces
+  - DAM2
+unidad: 1
+tema: Herramientas para mock-ups y wireframes
+---
 # Herramientas para mock-ups y wireframes
 - Definición de mockup
 - Definición de wireframes

@@ -2,8 +2,6 @@
 tags:
   - entornos-de-desarrollo
   - DAM1
-  - git
-  - github
 unidad: 3
 tema: Control de versiones con Git — funcionamiento, trabajo en local, ramas, deshacer cambios, GitHub y flujo de trabajo
 ---

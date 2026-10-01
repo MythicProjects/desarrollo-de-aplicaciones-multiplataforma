@@ -1,10 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - poo
-  - uml
+  - DAM1
 unidad: 14
 tema: Diagrama de clases UML e implementación en Java
 ---

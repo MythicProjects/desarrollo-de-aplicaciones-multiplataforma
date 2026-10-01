@@ -1,8 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
+  - DAM1
 unidad: 5
 tema: Entrada y salida de datos, números aleatorios y formateo
 ---

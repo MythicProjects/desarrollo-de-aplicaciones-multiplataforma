@@ -1,3 +1,10 @@
+---
+tags:
+  - proyecto-intermodular
+  - DAM2
+unidad: 1
+tema: Brainstorming
+---
 # Brainstorming
 
 ## Centrado en Software

@@ -1,3 +1,10 @@
+---
+tags:
+  - desarrollo-de-interfaces
+  - DAM2
+unidad: 1
+tema: Arquitectura de software
+---
 # Arquitectura de software
 
 La arquitectura soluciona muchos problemas, ya está probado y no se debe inventar. Existen arquitecturas conocidas y muy utilizadas.

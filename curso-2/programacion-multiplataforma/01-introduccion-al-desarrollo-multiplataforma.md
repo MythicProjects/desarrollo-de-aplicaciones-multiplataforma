@@ -1,3 +1,10 @@
+---
+tags:
+  - programacion-multiplataforma
+  - DAM2
+unidad: 1
+tema: Introducción al desarrollo multiplataforma
+---
 # Unidad 1 - Introducción
 ## ¿Qué implica desarrollar para movil?  
 **Desarrollo nativo**

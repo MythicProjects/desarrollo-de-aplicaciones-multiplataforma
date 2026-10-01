@@ -1,9 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - ficheros
+  - DAM1
 unidad: 15
 tema: Lectura y escritura de ficheros
 ---

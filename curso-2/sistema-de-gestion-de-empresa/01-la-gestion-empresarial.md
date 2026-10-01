@@ -1,3 +1,10 @@
+---
+tags:
+  - sistema-de-gestion-de-empresa
+  - DAM2
+unidad: 1
+tema: La gestión empresarial
+---
 # Unidad 1 - 
 
 Video 1 - Marketing

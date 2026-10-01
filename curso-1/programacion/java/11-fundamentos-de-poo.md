@@ -1,9 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - poo
+  - DAM1
 unidad: 11
 tema: Fundamentos de la programación orientada a objetos
 ---

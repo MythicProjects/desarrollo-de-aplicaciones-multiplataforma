@@ -1,3 +1,10 @@
+---
+tags:
+  - recursos
+  - DAM2
+unidad: 1
+tema: UML en Mermaid (Obsidian)
+---
 # UML en Mermaid (Obsidian)
 
 ## 1. Clases

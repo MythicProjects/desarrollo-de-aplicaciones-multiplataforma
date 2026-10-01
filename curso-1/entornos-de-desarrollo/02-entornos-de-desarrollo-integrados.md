@@ -2,8 +2,6 @@
 tags:
   - entornos-de-desarrollo
   - DAM1
-  - ide
-  - vscode
 unidad: 2
 tema: Entornos de desarrollo integrados — características, criterios de elección, uso y configuración (VS Code, Visual Studio, Dev Containers)
 ---

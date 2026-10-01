@@ -1,9 +1,7 @@
 ---
 tags:
-  - java
   - programacion
-  - dam1
-  - poo
+  - DAM1
 unidad: 12
 tema: Herencia, polimorfismo, clases abstractas e interfaces
 ---
