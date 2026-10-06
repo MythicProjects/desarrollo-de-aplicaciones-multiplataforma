@@ -17,6 +17,9 @@ _Sin temas todavía._
 - [Tema 1: Desarrollo de software](curso-1/entornos-de-desarrollo/01-desarrollo-de-software.md)
 - [Tema 2: Entornos de desarrollo integrados](curso-1/entornos-de-desarrollo/02-entornos-de-desarrollo-integrados.md)
 - [Tema 3: Control de versiones con Git](curso-1/entornos-de-desarrollo/03-control-de-versiones-con-git.md)
+- [Tema 4: Depuración y análisis de código](curso-1/entornos-de-desarrollo/04-depuracion-y-analisis-de-codigo.md)
+- [Tema 5: Diseño y ejecución de pruebas](curso-1/entornos-de-desarrollo/05-diseno-y-ejecucion-de-pruebas.md)
+- [Tema 6: Refactorización](curso-1/entornos-de-desarrollo/06-refactorizacion.md)
 
 ### Lenguajes de marcas
 
@@ -69,6 +72,7 @@ _Sin temas todavía._
 
 ### Acceso a datos
 
+- [Tema 1: Acceso a ficheros](curso-2/acceso-a-datos/01-acceso-a-ficheros.md)
 - [Tema 1: Persistencia de datos](curso-2/acceso-a-datos/01-persistencia-de-datos.md)
 
 ### Diseño de interfaces
@@ -79,19 +83,21 @@ _Sin temas todavía._
 
 _Sin temas todavía._
 
-### Interactivo
+### Desarrollo de software
 
 #### Desarrollo de interfaces
 
-- [Tema 1: Arquitectura de software](01-arquitectura-de-software.md)
+- [Tema 1: Arquitectura de software](curso-2/desarrollo-software/desarrollo-de-interfaces/01-arquitectura-de-software.md)
+- [Tema 1: Creación de interfaces en Java](curso-2/desarrollo-software/desarrollo-de-interfaces/01-creacion-interfaces-java.md)
 
 #### Desarrollo de videojuegos
 
-- [Tema 1: Algoritmo de animación](01-algoritmo-animacion.md)
+- [Tema 1: Algoritmo de animación](curso-2/desarrollo-software/desarrollo-de-videojuegos/01-algoritmo-animacion.md)
 
 #### Programación de servicios y procesos
 
-- [Tema 1: Introducción a servicios y procesos](01-introduccion-a-servicios-y-procesos.md)
+- [Tema 1.1: Introducción a servicios y procesos](curso-2/desarrollo-software/programacion-de-servicios-y-procesos/01-introduccion-a-servicios-y-procesos.md)
+- [Tema 1.2: Hilos en Java](curso-2/desarrollo-software/programacion-de-servicios-y-procesos/01-hilos-java.md)
 
 #### Proyecto intermodular
 
@@ -107,4 +113,8 @@ _Sin temas todavía._
 
 ### Sistema de gestión de empresa
 
-- [Tema 1: La gestión empresarial](curso-2/sistema-de-gestion-de-empresa/01-la-gestion-empresarial.md)
+- [Tema 1: La gestión empresarial](curso-2/sistema-de-gestion-de-empresa/01-gestion-empresarial.md)
+
+### Sostenibilidad
+
+- [Tema 1: Sostenibilidad](curso-2/sostenibilidad/01-sostenibilidad.md)

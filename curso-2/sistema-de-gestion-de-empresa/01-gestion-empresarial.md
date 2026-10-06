@@ -181,7 +181,7 @@ Estos datos se pueden y se deben convertir en información vital.
 > - Se llaman «soluciones verticales» a las específicamente desarrolladas para un tipo de negocio o mercado en particular.
 
 > [!info] Alcance de la unidad
-> Esta unidad desarrolla el apartado 1.3 del capítulo. Los términos *DataMining*, *DataWarehouse*, KPI, OLAP y sistemas de información están definidos en el glosario de la [[01 - La gestión empresarial#Glosario|Unidad 1]].
+> Esta unidad desarrolla el apartado 1.3 del capítulo. Los términos *DataMining*, *DataWarehouse*, KPI, OLAP y sistemas de información están definidos en el glosario de la [[01-gestion-empresarial#Glosario|Unidad 1]].
 
 ---
 
@@ -487,7 +487,7 @@ A partir de la década de 2010, la aparición de conceptos como el *Cloud Comput
 > - Con un CRM se vende más y mejor.
 
 > [!info] Alcance de la unidad
-> Esta unidad desarrolla el apartado 1.5 del capítulo. La definición de ROI está en el glosario de la [[01 - La gestión empresarial#Glosario|Unidad 1]], y la aparición del CRM en los años 2000, en la [[03 - Un poco de historia|Unidad 3]].
+> Esta unidad desarrolla el apartado 1.5 del capítulo. La definición de ROI está en el glosario de la [[01-gestion-empresarial#Glosario|Unidad 1]], y la aparición del CRM en los años 2000, en la [[03 - Un poco de historia|Unidad 3]].
 
 ---
 
