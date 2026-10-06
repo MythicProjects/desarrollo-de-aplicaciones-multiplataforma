@@ -83,19 +83,19 @@ _Sin temas todavía._
 
 #### Desarrollo de interfaces
 
-- [Tema 1: Arquitectura de software](curso-2/interactivo/desarrollo-de-interfaces/01-arquitectura-de-software.md)
+- [Tema 1: Arquitectura de software](01-arquitectura-de-software.md)
 
 #### Desarrollo de videojuegos
 
-- [Tema 1: Algoritmo de animación](curso-2/interactivo/desarrollo-de-videojuegos/01-algoritmo-animacion.md)
+- [Tema 1: Algoritmo de animación](01-algoritmo-animacion.md)
 
 #### Programación de servicios y procesos
 
-- [Tema 1: Introducción a servicios y procesos](curso-2/interactivo/programacion-de-servicios-y-procesos/01-introduccion-a-servicios-y-procesos.md)
+- [Tema 1: Introducción a servicios y procesos](01-introduccion-a-servicios-y-procesos.md)
 
 #### Proyecto intermodular
 
-- [Tema 1: Brainstorming](curso-2/interactivo/proyecto-intermodular/01-brainstorming.md)
+- [Tema 1: Brainstorming](curso-2/desarrollo-software/proyecto-intermodular/01-brainstorming.md)
 
 ### Programación multiplataforma
 

@@ -36,10 +36,12 @@ tema: Brainstorming
 - Problema: Seguridad/información sensible
 - No se conecta con el banco, es un seguimiento manual
 
-**App de compra de material escolar**
+**App de compra de SOLO material escolar**
 - Ven de libros de segunda mano
 - Verificar codigo ISBN de los libros
 
+**App de estudio**
+- Seguimiento minimista, acumulación de minutos por día
 
 ### Implica Hardware
 **Consola emulador**
