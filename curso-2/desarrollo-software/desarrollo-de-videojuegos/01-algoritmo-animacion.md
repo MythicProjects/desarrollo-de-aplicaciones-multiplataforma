@@ -35,3 +35,69 @@ tema: Algoritmo Animación Fuego
 
 Ejercicio práctico: Imagen desaturar con Java. Se debe ver a la izquierda el antes y a la derecha el después
 	- Pista: la imagen se descomprime dentro de BufferetImage, usarlo, no Image
+
+
+---
+
+Se seguirá el modelo MVP visto en [[01-hilos-java]] para dibujar ventanas:
+
+```mermaid
+classDiagram
+	class IPresenter {
+		<<interface>>
+	}
+	class IModel {
+		<<interface>>
+		void getImage()
+		void setPalette(ColorTargetDTO colorPalette)
+		void setDimension()
+	}
+	class IView {
+		<<interface>>
+	}
+	
+	class Model{
+		void play()
+		void stop()
+		void getImage()
+		void setPalette(ColorTargetDTO colorPalette)
+		void setDimension()
+	}
+	
+	class Render{
+		void getImage(Palette, temperatures)
+	}
+	
+	class Fire{
+		int temperatures
+		Dimension dimension
+		void setSparks(int percentatge)
+		void updateTemperatrues()
+		void setCoolPoints(int percentatge)
+	}
+	
+	IPresenter o-- IView
+	IPresenter o-- IModel
+	IPresenter <|.. Presenter
+	IModel <|.. Model
+	Model o-- Palette
+	Model o-- Fire
+	Model o-- Render 
+	Palette o-- ColorTargetDTO
+	
+```
+
+
+- El modelo representa la lógica
+- Partes, renderizar imagen, paleta de color (crear, usar), recalcuar temperatura, DTO temperaturas (Data Type Object), DTO color targets, 
+- Interpolación lineal por canal con createPalette
+- El fuego evoluciona seteando puntos frios, luego seteando puntos calientes y finalmente recalculando para que crezca
+- Recalculo de temperatura:
+	- O fila de arriba o penúltima (la última es la de los sets)
+```
+for penultima fila to primera fila
+	for primera columna to ultima columna
+		temperatura fila actual, columna actual = calcularTemp(x, y); // Calculara la temperatura
+```
+- La simulación tendra su propio ritmo, el thread estará en la clase fire
+- nota: Jumi diferencia variables con propiedades pero parecen exactamente lo mismo

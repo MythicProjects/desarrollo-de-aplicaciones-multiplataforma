@@ -45,3 +45,41 @@ Agenda 2030
 	- Vida submarina
 	- Vida de ecosistemas terrestres
 	- Paz, justicia e instituciones sólidas
+
+Tres dimensiones: ASG
+- Ambiental - Descarbonificacion, eficiencia, economia circular
+- Social - Derechos, diversidad, comunidad
+- Governanza - Etica, proteccion de datos y consejos de administracion
+
+Agenda 2030 y los ODS (Objetivos de Desarrollo Sostenible)
+- Hoja de ruta universal
+- Transmisión de modelo productivo
+- Tres dimensiones de la agenda (Personas-Planeta-Prosperidad)
+
+Matriz de material i stakeholders
+Stackholders -> partes que se relacionan con una emresa. Clientes, inversores, trabajadores...
+
+Materialidad identifica que temas ASG son más criticos para el impacto externo y su valor financiero
+
+Riesgos:
+- Regulatorios
+- Reputacionales
+- Financieros
+
+Oportunidades:
+- Eficencia operativa
+- Atractivo de inversion
+- Diferenciacion
+
+Estandars globales de sostenibilidad
+- GRI (Global)
+- CSRD / ESRS (Union Europea)
+- ISSB / SASB (Mercados financieros)
+
+Proces de rendicion de cuentas y marco regulador
+1. Recogida de datos
+2. Estado no financiero
+3. Aduitoria y verificiacion
+4. Publicación official
+
+Inversión socialmente responsable (IRS)

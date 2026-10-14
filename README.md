@@ -88,7 +88,7 @@ _Sin temas todavía._
 #### Desarrollo de interfaces
 
 - [Tema 1: Arquitectura de software](curso-2/desarrollo-software/desarrollo-de-interfaces/01-arquitectura-de-software.md)
-- [Tema 1: Creación de interfaces en Java](curso-2/desarrollo-software/desarrollo-de-interfaces/01-creacion-interfaces-java.md)
+- [Tema 1: Creación de interfaces en Java](01-componentes.md)
 
 #### Desarrollo de videojuegos
 
@@ -109,7 +109,7 @@ _Sin temas todavía._
 
 ### Recursos
 
-- [Tema 1: UML en Mermaid](curso-2/recursos/01-uml-en-mermaid.md)
+- [Tema 1: UML en Mermaid](01-uml-en-mermaid.md)
 
 ### Sistema de gestión de empresa
 
