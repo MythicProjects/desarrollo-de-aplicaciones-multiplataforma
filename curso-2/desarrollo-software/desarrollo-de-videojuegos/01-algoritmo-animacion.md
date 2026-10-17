@@ -84,6 +84,10 @@ classDiagram
 	Model o-- Fire
 	Model o-- Render 
 	Palette o-- ColorTargetDTO
+	IView <|.. View
+	View o--DataPanel 
+	View o-- ControlPanel
+	View o-- Viewer
 	
 ```
 
@@ -101,3 +105,10 @@ for penultima fila to primera fila
 ```
 - La simulación tendra su propio ritmo, el thread estará en la clase fire
 - nota: Jumi diferencia variables con propiedades pero parecen exactamente lo mismo
+
+
+---
+todo lo ejecuta un hilo - si pregunta qué ejecuta que, ha de ser un hilo especifico
+es necesario crear para vista un 3 clases, una de ellas es el viewer otra es activar / desactivar animacion y opciones
+viewer implementa canva y una interfaz (data panel, button panel)
+El model hereda las mismas clases pero implementa el hilo y la interfaz

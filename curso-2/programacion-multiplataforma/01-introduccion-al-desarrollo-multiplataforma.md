@@ -4,6 +4,7 @@ tags:
   - DAM2
 unidad: 1
 tema: Introducción al desarrollo multiplataforma
+revisado: true
 ---
 
 # Unidad 1. Introducción al desarrollo multiplataforma
@@ -20,11 +21,6 @@ tema: Introducción al desarrollo multiplataforma
 > - React Native mantiene el mismo modelo mental, pero sustituye las etiquetas HTML y el CSS por componentes nativos (`View`, `Text`, `Image`, `Pressable`) y por `StyleSheet`.
 > - Expo simplifica la creación, la ejecución y el acceso a las API del dispositivo en un proyecto React Native.
 > - Multiplataforma no significa idéntico: permisos, _hardware_, API y comportamiento pueden variar entre Android e iOS.
-
-La unidad recorre el camino **JavaScript → React → React Native → Android / iOS**. Primero se estudia el modelo de React en la web, con un proyecto creado con Vite, y después se traslada ese mismo modelo al móvil con React Native y Expo. El objetivo no es memorizar React, sino entender cómo se construye, se reutiliza, se ejecuta y se modifica una aplicación.
-
-> [!info] Metodología de la unidad 
-> El trabajo sigue siempre la misma secuencia: explicación breve, demostración, práctica individual (microejercicios), ampliación del reto y, al final, el **Sprint 1**. Las prácticas sirven para aprender; el Sprint, para demostrar lo aprendido (véase el apartado 14).
 
 ---
 
@@ -725,7 +721,7 @@ El segundo son las **extensiones por plataforma**: si existen `Button.android.ts
 
 ---
 
-## 16. Ejemplo integrador
+## 15. Ejemplo integrador
 
 Lista de tareas en React Native que combina componentes, props, composición, estado, eventos, renderizado condicional, listas y estilos. Cada tarea guarda su propio estado de completada.
 
