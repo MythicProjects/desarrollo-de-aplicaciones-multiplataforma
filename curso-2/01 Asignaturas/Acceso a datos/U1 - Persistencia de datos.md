@@ -6,7 +6,7 @@ unidad: 1
 tema: Persistencia de datos
 ---
 # Unidad 1 - 
-![](../_assets/acceso-a-datos-01-mapa-persistencia-de-datos.png)
+![](acceso-a-datos-01-mapa-persistencia-de-datos.png)
 
 
 > [!info] Rastreadores

@@ -172,7 +172,7 @@ Las cifras son órdenes de magnitud orientativos y varían según el procesador.
 > Las cachés funcionan porque los programas tienden a reutilizar datos recientes (**localidad temporal**) y a acceder a datos contiguos en memoria (**localidad espacial**). Por eso recorrer una matriz fila a fila es más rápido que recorrerla por columnas: aprovecha los datos que ya se han traído a la caché.
 
 > [!info] Relación con los hilos 
-> Al compartir la caché L3 y la memoria principal, varios núcleos pueden tener copias distintas de un mismo dato en sus cachés L1 y L2. Este es el origen físico de los problemas de visibilidad y sincronización entre hilos que se estudian en [[01-hilos-java]].
+> Al compartir la caché L3 y la memoria principal, varios núcleos pueden tener copias distintas de un mismo dato en sus cachés L1 y L2. Este es el origen físico de los problemas de visibilidad y sincronización entre hilos que se estudian en [[U1 - Hilos en java]].
 
 ### 2.6. Protección del hardware
 
@@ -284,7 +284,7 @@ Como cada proceso tiene su memoria aislada, intercambiar datos requiere la inter
 Estos mecanismos son más complejos y lentos que acceder a una variable. Por ello, cuando varias tareas simultáneas deben compartir datos, se lanzan **hilos dentro de un mismo proceso**, que comparten su memoria directamente.
 
 > [!danger] Error conceptual frecuente 
-> Los hilos **están dentro del proceso**, no fuera. Esa es precisamente la diferencia: dos procesos están aislados y necesitan IPC; dos hilos del mismo proceso comparten memoria y se comunican a través de variables. Véase [[01-hilos-java]].
+> Los hilos **están dentro del proceso**, no fuera. Esa es precisamente la diferencia: dos procesos están aislados y necesitan IPC; dos hilos del mismo proceso comparten memoria y se comunican a través de variables. Véase [[U1 - Hilos en java]].
 
 ---
 
@@ -509,7 +509,7 @@ Cuando varias tareas se ejecutan a la vez y comparten datos, el orden en que acc
 > Conjunto de mecanismos que coordinan la ejecución de varias tareas concurrentes para garantizar que acceden correctamente a los recursos compartidos.
 
 > [!info] Alcance 
-> Los problemas de sincronización y los mecanismos de Java se estudian mediante ejercicios con hilos en [[01-hilos-java]].
+> Los problemas de sincronización y los mecanismos de Java se estudian mediante ejercicios con hilos en [[U1 - Hilos en java]].
 
 ---
 

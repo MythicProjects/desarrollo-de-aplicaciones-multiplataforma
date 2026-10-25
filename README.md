@@ -72,12 +72,12 @@ _Sin temas todavía._
 
 ### Acceso a datos
 
-- [Tema 1: Acceso a ficheros](curso-2/acceso-a-datos/01-acceso-a-ficheros.md)
-- [Tema 1: Persistencia de datos](curso-2/acceso-a-datos/01-persistencia-de-datos.md)
+- [Tema 1: Acceso a ficheros](U1%20-%20Acceso%20a%20ficheros.md)
+- [Tema 1: Persistencia de datos](U1%20-%20Persistencia%20de%20datos.md)
 
 ### Diseño de interfaces
 
-- [Tema 1: Herramientas](curso-2/diseno-de-interfaces/01-herramientas.md)
+- [Tema 1: Herramientas](01-herramientas.md)
 
 ### English
 
@@ -87,34 +87,34 @@ _Sin temas todavía._
 
 #### Desarrollo de interfaces
 
-- [Tema 1: Arquitectura de software](curso-2/desarrollo-software/desarrollo-de-interfaces/01-arquitectura-de-software.md)
-- [Tema 1: Creación de interfaces en Java](01-componentes.md)
+- [Tema 1: Arquitectura de software](U1-%20Arquitectura%20de%20software.md)
+- [Tema 1: Creación de interfaces en Java](U1%20-%20Componentes%20interfaz.md)
 
 #### Desarrollo de videojuegos
 
-- [Tema 1: Algoritmo de animación](curso-2/desarrollo-software/desarrollo-de-videojuegos/01-algoritmo-animacion.md)
+- [Tema 1: Algoritmo de animación](U1%20-%20Algoritmo%20de%20animación.md)
 
 #### Programación de servicios y procesos
 
-- [Tema 1.1: Introducción a servicios y procesos](curso-2/desarrollo-software/programacion-de-servicios-y-procesos/01-introduccion-a-servicios-y-procesos.md)
-- [Tema 1.2: Hilos en Java](curso-2/desarrollo-software/programacion-de-servicios-y-procesos/01-hilos-java.md)
+- [Tema 1.1: Introducción a servicios y procesos](U1%20-%20Introduccion%20a%20servicios%20y%20procesos.md)
+- [Tema 1.2: Hilos en Java](U1%20-%20Hilos%20en%20java.md)
 
 #### Proyecto intermodular
 
-- [Tema 1: Brainstorming](curso-2/desarrollo-software/proyecto-intermodular/01-brainstorming.md)
+- [Tema 1: Brainstorming](01-brainstorming.md)
 
 ### Programación multiplataforma
 
-- [Tema 1: Introducción al desarrollo multiplataforma](curso-2/programacion-multiplataforma/01-introduccion-al-desarrollo-multiplataforma.md)
+- [Tema 1: Introducción al desarrollo multiplataforma](01-introduccion-al-desarrollo-multiplataforma.md)
 
 ### Recursos
 
-- [Tema 1: UML en Mermaid](01-uml-en-mermaid.md)
+- [Tema 1: UML en Mermaid](UML%20con%20Mermaid.md)
 
 ### Sistema de gestión de empresa
 
-- [Tema 1: La gestión empresarial](curso-2/sistema-de-gestion-de-empresa/01-gestion-empresarial.md)
+- [Tema 1: La gestión empresarial](01-gestion-empresarial.md)
 
 ### Sostenibilidad
 
-- [Tema 1: Sostenibilidad](curso-2/sostenibilidad/01-sostenibilidad.md)
+- [Tema 1: Sostenibilidad](01-sostenibilidad.md)

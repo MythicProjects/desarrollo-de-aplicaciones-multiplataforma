@@ -39,7 +39,7 @@ Ejercicio práctico: Imagen desaturar con Java. Se debe ver a la izquierda el an
 
 ---
 
-Se seguirá el modelo MVP visto en [[01-hilos-java]] para dibujar ventanas:
+Se seguirá el modelo MVP visto en [[U1 - Hilos en java]] para dibujar ventanas:
 
 ```mermaid
 classDiagram
